@@ -1,0 +1,37 @@
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+
+This dataset ("Open Dataset of Developmental Timelines for Corresponding Milestones in Mice,
+Rats, and Humans", files `dataset_mrh_0.9.csv` and `DATA_DICTIONARY.md` in this folder) is
+licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+License (CC BY-NC-SA 4.0).
+
+Copyright (c) 2026 Eugenia Amici, Rafael Grimson, Pablo Vazquez-Borsetti, and contributors.
+
+You are free to:
+
+* Share — copy and redistribute the material in any medium or format.
+* Adapt — remix, transform, and build upon the material.
+
+Under the following terms:
+
+* Attribution — You must give appropriate credit, provide a link to the license, and indicate
+  if changes were made. You may do so in any reasonable manner, but not in any way that
+  suggests the licensor endorses you or your use.
+* NonCommercial — You may not use the material for commercial purposes.
+* ShareAlike — If you remix, transform, or build upon the material, you must distribute your
+  contributions under the same license as the original.
+
+No additional restrictions — You may not apply legal terms or technological measures that
+legally restrict others from doing anything the license permits.
+
+This license applies only to the dataset and its documentation contained in this folder. It
+does not grant any rights over the original publications from which individual data points
+were extracted; those remain subject to their own copyright and licensing terms. Users
+re-distributing or re-publishing this dataset must also retain attribution to the original
+bibliographic sources listed in the `Reference`/`DOI` columns of `dataset_mrh_0.9.csv`.
+
+The full legal text of this license is available at:
+https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+
+For the purposes of attribution, please cite this dataset and its companion publication as
+described in the "How to Cite" section of the accompanying README.md.

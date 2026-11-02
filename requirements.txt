@@ -1,0 +1,10 @@
+requests==2.34.2
+python-dotenv==1.2.4
+pandas==3.1.0
+pypdf==6.21.4
+google-genai==2.33.0
+instructor==1.17.0
+pydantic==2.14.1
+
+# Opcional: solo si pandas tiene que leer un .xlsx en vez de un .csv
+# openpyxl
